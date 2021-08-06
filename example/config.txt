@@ -1,0 +1,2 @@
+Prefix plugins/MegaHit/example
+Plugin MegaHit inputfile fastqfiles.txt outputfile MegaHit
